@@ -11,6 +11,8 @@ const { headerImage, kitchenImage, handymanImage, bathroomImage, coverImage, own
 const { leadingLeftIcon, leadingRightIcon, quotesIcon, starIcon } = localData.svgs;
 
 const Template = () => {
+
+
   return (
     <>
       <header className="absolute w-full z-2 ">
