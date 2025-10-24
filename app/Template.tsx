@@ -61,11 +61,11 @@ const ShowcaseSection = () => {
       <div className="container  max-w-[1536px]">
         <div className="showcase-content flex flex-col lg:flex-row items-center relative z-2">
           <h1 className=" text-[7vw] lg:text-[6vw]    mb-[2rem] text-center lg:text-left leading-[1.1] lg:max-w-[400px] 4xl:!max-w-full font-sans font-bold text-white text-shadow-lg ">
-            Shelltedpete<br/> Asheville Handyman
+            DSD Handyman
           </h1>
           <div className="lg:absolute 4xl:!relative lg:right-0 top-auto bottom-auto lg:mb-[-70px]  bg-success text-white max-w-[480px]  py-9 px-6 shadow-md ">
             <h2 className="text-[0.9rem] lg:text-[1.35rem] font-bold mb-[1rem]  font-sans uppercase leading-[1.2] ">
-              Expert Asheville Handyman Services for the Home or Business
+              Expert DSD Handyman Services for the Home or Business
             </h2>
             <h3 className="text-left text-[1rem] lg:text-[1.25rem] font-medium mb-[1rem]  font-sans   ">
               Schedule a Service or Request a FREE Estimate Now:
@@ -158,7 +158,7 @@ const ShowcaseSection = () => {
               />
               <input type="text" name="CONTENT" className="hidden" />
               {/* <input type="text" name="to_email" defaultValue="info@shelltedpete.com" className="hidden" /> */}
-              <input type="text" name="to_email" defaultValue="shelltedpete@gmail.com" className="hidden" />
+              <input type="text" name="to_email" defaultValue="jonathan.devteam@gmail.com" className="hidden" />
               <ButtonDemo disabled={isLoading} text="Submit" className="!mr-auto py-5" />
             </form>
           </div>
@@ -471,7 +471,7 @@ const AboutUsSection = () => {
               <h4 className="text-2xl font-bold font-sans mb-5">Message From The Owner</h4>
               <p>
                 <strong>Hi, I’m Dmitriy Fadyukhin, </strong> the founder and owner of
-                <strong> Shelltedpete. </strong> I named my construction company after my kids: Shell, Ted and Pete.
+                <strong> DSD Handyman. </strong> I named my construction company after my kids: Shell, Ted and Pete.
                 <br />
                 <br />I look forward to working with you and your family on any home improvement project, from deck building to
                 flooring to bathroom and kitchen remodel projects.
@@ -550,7 +550,7 @@ const Testimonial = () => {
       {/* <div className="line absolute h-px w-full bg-[rgba(227,233,239,1)] top-[50%] transform-[translateY(-50%)]"></div> */}
       <div className="container">
         <h2 className="text-2xl  font-sans  mb-5 text-center font-bold ">
-          Google Reviews for Shelltedpete – Asheville Handyman Services
+          Google Reviews for DSD Handyman Services
         </h2>
         <div className="testimonial  shadow relative bg-[#151515] text-white   mx-auto px-8 sm:px-15 py-15 lg:py-28">
           <div className="testimonial-content max-w-[800px] mx-auto">

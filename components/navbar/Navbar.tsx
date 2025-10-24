@@ -45,7 +45,7 @@ export default function Navbar() {
 
         <div className="btn-group  gap-2 hidden lg:flex">
           {/* <ButtonDemo variant="outline" text="Button" /> */}
-          <span className="text-white font-thin  border-b-3">Shelltedpete Asheville Handyman</span>
+          <span className="text-white font-thin  border-b-3">DSD Handyman</span>
         </div>
       </div>
     </nav>

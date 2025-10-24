@@ -53,7 +53,7 @@ const Footer = () => {
             </ul>
 
             <ul className="">
-              <li className="text-secondary-2 mb-2"> Shelltedpete Handyman (serving Asheville NC area)</li>
+              <li className="text-secondary-2 mb-2"> DSD Handyman (serving Asheville NC area)</li>
               <li className="text-secondary-2 mb-2">340 Merrimon Avenue, Asheville NC 28801</li>
               {/* <li className="text-secondary-2 mb-2">info @ shelltedpete.com</li> */}
               {/* <li className="text-secondary-2 mb-2">‪(980) 533-1889</li> */}
