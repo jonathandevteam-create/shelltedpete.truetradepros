@@ -158,7 +158,7 @@ const ShowcaseSection = () => {
               />
               <input type="text" name="CONTENT" className="hidden" />
               {/* <input type="text" name="to_email" defaultValue="info@shelltedpete.com" className="hidden" /> */}
-              <input type="text" name="to_email" defaultValue="jonathan.devteam@gmail.com" className="hidden" />
+              <input type="text" name="to_email" defaultValue="wjonpost@gmail.com" className="hidden" />
               <ButtonDemo disabled={isLoading} text="Submit" className="!mr-auto py-5" />
             </form>
           </div>
