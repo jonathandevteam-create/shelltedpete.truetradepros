@@ -2,7 +2,7 @@
 
 import React from "react";
 import { useRouter } from "next/navigation";
-import { Header, Footer, ButtonDemo } from "@/components/index";
+import { ButtonDemo } from "@/components/index";
 import localData from "@/localData";
 import { ChevronLeft } from "lucide-react";
 
