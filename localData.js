@@ -10,6 +10,7 @@ const images = {
   bathroomImage: "/assets/images/rest/bathroom remodel.jpg",
   ownerImage: "/assets/images/rest/Dmitriy+Fadyukhin.jpeg",
   teamImage: "/assets/images/rest/shelltedpete team .png",
+  notFoundImage: '/assets/images/not-found.webp'
 };
 
 const localData = {
