@@ -150,8 +150,6 @@ const ShowcaseSection = () => {
                 callback={(e) => handleOnChange(e)}
               />
 
-
-              
               <input
                 type="text"
                 name="image"
